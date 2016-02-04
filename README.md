@@ -19,7 +19,8 @@ Manuel Ebert je nekoć bio neuroznanstvenik koji se koristio programiranjem kako
 
 ### [_Why learning to code is so damn hard_](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
 Opisuje proces učenja programiranja od samih početaka do zapošljavanja. Razjašnjava brojne zablude u vezi programiranja, načina učenja programiranja, služi kao svojevrstan vodič. Savjeti su jako dobro objašnjeni i poduprti su dobrim primjerima. Zanimljiv post i svakako preporučujemo.
-![Coding Confidence vs Competence](https://raw.githubusercontent.com/dump-hr/Internship-2016-Dev/master/readme-images/coding-confidence-vs-competence.png)
+
+<div style="text-align:center"><img src ="https://raw.githubusercontent.com/dump-hr/Internship-2016-Dev/master/readme-images/coding-confidence-vs-competence.png" /></div>
 
 ## Javascript
 ### [_You Don't Know JS (book series)_](https://github.com/getify/You-Dont-Know-JS)
