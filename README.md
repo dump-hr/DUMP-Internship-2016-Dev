@@ -12,18 +12,17 @@ Ova dva izvora će vam dati razne informacije o tome kakav odnos imati prema rad
 ### [_Angelina Fabbro: JavaScript Masterclass_](https://www.youtube.com/watch?v=v0TFmdO4ZP0)
 Istina, predavanje nosi naslov “JavaScript Masterclass”, ali većinom govori generalno o programiranju, programerskom mindsetu te kako postati ekspert.
 <br/>
-<div style="text-align:center"><img src ="https://raw.githubusercontent.com/dump-hr/Internship-2016-Dev/master/readme-images/angelina-fabbro.jpg" max-height="250"/></div>
+<div style="text-align:center; max-height:250;"><img src ="https://raw.githubusercontent.com/dump-hr/Internship-2016-Dev/master/readme-images/angelina-fabbro.jpg"/></div>
 
 ### [_9 Things I Learned as a Software Engineer …that I wish I had known when I started grad school_](https://medium.com/@maebert/9-things-i-learned-as-a-software-engineer-c2c9f76c9266#.8y4b7gb7i)
 Manuel Ebert je nekoć bio neuroznanstvenik koji se koristio programiranjem kako bi obrađivao podatke za istraživanja. Danas je softver developer, i u ovom postu je sažeo razne korisne savjete. Budući da je nekoć radio kao znanstvenik, ponegdje se u tekstu priča o „znanstvenom radu“, ali je većina stvari korisna developerima.
-![Things I Learned As a Software Engineer]()
 <br/>
-<div style="text-align:center"><img src ="https://raw.githubusercontent.com/dump-hr/Internship-2016-Dev/master/readme-images/things-i-learned-as-a-software-engineer.jpg" max-height="250"/></div>
+<div style="text-align:center; max-height:250;"><img src ="https://raw.githubusercontent.com/dump-hr/Internship-2016-Dev/master/readme-images/things-i-learned-as-a-software-engineer.jpg"/></div>
 
 ### [_Why learning to code is so damn hard_](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
 Opisuje proces učenja programiranja od samih početaka do zapošljavanja. Razjašnjava brojne zablude u vezi programiranja, načina učenja programiranja, služi kao svojevrstan vodič. Savjeti su jako dobro objašnjeni i poduprti su dobrim primjerima. Zanimljiv post i svakako preporučujemo.
 <br/>
-<div style="text-align:center"><img src ="https://raw.githubusercontent.com/dump-hr/Internship-2016-Dev/master/readme-images/coding-confidence-vs-competence.png" /></div>
+<div style="text-align:center; max-height:250;"><img src ="https://raw.githubusercontent.com/dump-hr/Internship-2016-Dev/master/readme-images/coding-confidence-vs-competence.png"/></div>
 
 ## Javascript
 ### [_You Don't Know JS (book series)_](https://github.com/getify/You-Dont-Know-JS)
